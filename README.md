@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![https://og.poap.in/api/poap/v/glorylab.eth](https://og.poap.in/api/poap/v/glorylab.eth)
-![https://og.poap.in/api/poap/v/glorylab.eth](https://og.poap.in/api/poap/v/glorylab.eth/letter)
+![POAP badge of glorylab.eth](https://og.poap.in/api/poap/badge/glorylab.eth/lg)
+![POAP card of glorylab.eth](https://og.poap.in/api/poap/v/glorylab.eth)
+![POAP card of glorylab.eth](https://og.poap.in/api/poap/v/glorylab.eth/letter)
 
 <!--
 **RockerFlower/RockerFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
