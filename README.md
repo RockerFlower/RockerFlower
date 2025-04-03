@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![POAP badge of glorylab.eth](https://og.poap.in/api/poap/badge/glorylab.eth/lg)
+![POAP badge of glorylab.eth](https://poap.in/badge/glorylab.eth/lg)
 ![POAP card of glorylab.eth](https://og.poap.in/api/poap/v/glorylab.eth)
 ![POAP card of glorylab.eth](https://og.poap.in/api/poap/v/glorylab.eth/letter)
 
